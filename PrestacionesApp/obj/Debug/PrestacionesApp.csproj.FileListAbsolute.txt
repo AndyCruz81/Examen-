@@ -1,0 +1,12 @@
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\bin\Debug\PrestacionesApp.exe.config
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\bin\Debug\PrestacionesApp.exe
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\bin\Debug\PrestacionesApp.pdb
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.csprojAssemblyReference.cache
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.Form1.resources
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.Prestamo.resources
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.Properties.Resources.resources
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.View.VerPrestamos.resources
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.csproj.GenerateResource.cache
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.exe
+C:\Users\Sistemas-02\source\repos\PrestacionesApp\PrestacionesApp\obj\Debug\PrestacionesApp.pdb
